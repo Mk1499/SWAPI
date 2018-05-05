@@ -1,0 +1,12 @@
+.navbar-inverse{
+    background : rgba(0,0,0,0.2) ; 
+    border-bottom: 1px solid #333;  
+}
+nav a {
+    color: #eee ; 
+    font-size: 1vw
+}
+nav a.navbar-brand{
+    font-size: 1.5vw ; 
+    font-family: 'Pacifico', cursive;
+}

@@ -1,0 +1,21 @@
+.foot {
+    background : rgba(0,0,0,0.2) ; 
+    border-color: #080808;
+    padding-top: 20px;
+    margin-top: 20px;
+    display: block;
+    bottom: 0;
+    color: #eee;
+}
+
+.foot ul{
+    list-style-type:none
+}
+.foot li {
+    float: right;
+    padding: 10px;
+}
+
+.foot a {
+    color: #eee;
+}
